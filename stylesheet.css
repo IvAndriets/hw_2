@@ -359,6 +359,7 @@ article{
 }
 
 .col-16{
+    min-height: 1px;
     width: 100%;
     float: left;
     padding-left: 10px;
@@ -373,6 +374,7 @@ article{
 
     .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-13,.col-sm-14,.col-sm-15,.col-sm-16{
         float: left;
+        min-height: 1px;
         padding-left: 10px;
         padding-right: 10px;
     }
@@ -399,6 +401,7 @@ article{
 
     .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12,.col-md-13,.col-md-14,.col-md-15,.col-md-16{
         float: left;
+        min-height: 1px;
         padding-left: 10px;
         padding-right: 10px;
     }
