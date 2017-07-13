@@ -434,11 +434,11 @@ img {
 }
 
 .col-1 {
-    width: calc(100%/16 *2);
+    width: 111px;
     height: 111px;
     background-color: rgba(155, 89, 182, 0.5);
     display: inline-block;
-    margin: -30px 10%;
+    margin: -30px calc(100%/16 * 2);
 }
 
 .icon_background {
